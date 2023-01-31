@@ -2,7 +2,7 @@
 
 Hey, sussy bakas, have you ever wanted to use epic quotes from Dean Norris in your JavaScript projects? Well now you can! This repository contains goofy ahh messages from Dean Norris (a.k.a. Hank Schrader) from different sources, including Cameo, Breaking Bad and Better Call Saul! Feel free to use this library for fake data or testing.
 
-> Note: This library is still under development, so there are not many messages yet. More will be added in the future. If you'd like to add your more Hank quotes, feel free to contribute by creating a pull request.
+> Note: This library is still under development, so there are not many messages yet. More will be added in the future. If you'd like to add more Hank quotes, feel free to contribute by creating a pull request.
 
 <img src="https://cdn.discordapp.com/attachments/510776441084968977/1069911115863183430/image.png" alt="Hank Schrader" height="200"/>
 
