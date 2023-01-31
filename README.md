@@ -4,7 +4,7 @@ Hey, sussy bakas, have you ever wanted to use epic quotes from Dean Norris in yo
 
 > Note: This library is still under development, so there are not many messages yet. More will be added in the future. If you'd like to add your more Hank quotes, feel free to contribute by creating a pull request.
 
-![Hank Schrader](https://cdn.discordapp.com/attachments/510776441084968977/1069911115863183430/image.png)
+<img src="https://cdn.discordapp.com/attachments/510776441084968977/1069911115863183430/image.png" alt="Hank Schrader" height="200"/>
 
 ## Usage
 
