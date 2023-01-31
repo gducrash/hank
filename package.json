@@ -1,0 +1,29 @@
+{
+  "name": "hank",
+  "version": "0.0.0",
+  "description": "Goofy ahh messages from Hank Breaking Bad!",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "author": "Artem Goshurenk0",
+  "license": "ISC",
+  "keywords": [
+    "hank", "breaking bad", "dean norris",
+    "goofy","memes", "kracc bacc",
+    "fake data", "test", "text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDUcrash/hank.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GDUcrash/hank/issues"
+  },
+  "homepage": "https://github.com/GDUcrash/hank#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
